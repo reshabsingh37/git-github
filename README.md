@@ -3,4 +3,4 @@ learning branching prs and merges
 
 # git-practice-zone
 
-"Practice makes perfect."
+"Action is the foundational key to all success."
